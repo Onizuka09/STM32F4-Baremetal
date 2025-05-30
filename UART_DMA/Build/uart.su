@@ -1,0 +1,8 @@
+./CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+Src/uart.c:31:5:__io_putchar	16	static
+Src/uart.c:38:6:USART_write	16	static
+Src/uart.c:46:6:USART_read	16	static
+Src/uart.c:54:6:USART_read_string	32	static
+Src/uart.c:80:6:usart2_Rx_init_interrupt	8	static
+Src/uart.c:112:13:usart_set_baudrate	24	static
+Src/uart.c:119:17:compute_uart_bd	16	static

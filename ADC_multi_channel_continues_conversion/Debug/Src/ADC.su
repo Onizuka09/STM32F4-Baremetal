@@ -1,0 +1,4 @@
+../Src/ADC.c:15:6:init_GPIO	16	static
+../Src/ADC.c:28:6:init_ADC	4	static
+../Src/ADC.c:53:10:Read_ADC1	4	static
+../Src/ADC.c:60:6:Start_conversion	4	static

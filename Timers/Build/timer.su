@@ -1,0 +1,8 @@
+Src/timer.c:32:6:tim2_1hrz_init	4	static
+Src/timer.c:52:6:timeout_event	24	static
+Src/timer.c:68:6:configure_PA5_AF	4	static
+Src/timer.c:82:6:time2_PA5_output_compare_1hrz	4	static
+Src/timer.c:105:6:configure_PA6_AF	4	static
+Src/timer.c:118:6:time3_PA6_input_captrue_rising_edge	4	static
+Src/timer.c:137:5:capture_value	4	static
+Src/timer.c:145:6:tim2_PA5_pwm_generation	16	static

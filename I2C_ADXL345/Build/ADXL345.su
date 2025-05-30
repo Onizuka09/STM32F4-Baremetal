@@ -1,0 +1,4 @@
+Src/ADXL345.c:12:6:ADXL_Read_ADRR	16	static
+Src/ADXL345.c:16:6:ADXL_Write	24	static
+Src/ADXL345.c:23:6:ADXL_Read_values	16	static
+Src/ADXL345.c:27:6:ADXL_init	8	static

@@ -1,0 +1,5 @@
+Src/I2C.c:33:6:pin_GPIOB_config	16	static
+Src/I2C.c:46:6:I2C1_init	8	static
+Src/I2C.c:86:6:I2C_READ_Byte	24	static
+Src/I2C.c:134:6:I2C_burst_read	32	static
+Src/I2C.c:204:6:I2C_BurstWrite	32	static
