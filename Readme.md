@@ -50,7 +50,7 @@ Each folder or file represents a hands-on project focusing on a specific periphe
 - **Board**: STM32F401RE Nucleo
 - **Toolchain**: `arm-none-eabi-gcc`
 - **Flashing Tool**: `st-flash` or STM32CubeProgrammer
-- **Editor**: VSCode / Vim / CLion
+- **Editor**: VSCode 
 
 ---
 
